@@ -92,7 +92,7 @@ Practicing Data Structures & Algorithms and improving algorithmic thinking.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,,sql" />
 </p>
 
 ### 🌐 Web & Backend
