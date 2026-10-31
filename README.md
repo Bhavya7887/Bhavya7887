@@ -111,49 +111,27 @@ Practicing Data Structures & Algorithms and improving algorithmic thinking.
 
 # ⭐ Featured Projects
 
+# ⭐ Featured Projects
+
 ## 🔎 DevTrace — Frontier Intelligence
 
 > **GitHub Repository Intelligence & Risk Analysis Platform**
 
-DevTrace is a Django-based platform that analyzes public GitHub repositories and transforms repository data into structured investigation reports.
+DevTrace is a Django-based platform that analyzes public GitHub repositories and converts repository data into structured investigation reports. It helps understand repository activity, contributors, code structure, and potential development risks.
 
-### What it does
-
-```text
-GitHub Repository
-       ↓
-    GitHub API
-       ↓
-Repository Intelligence
-       ↓
-┌─────────────────────┐
-│ Commit Analysis     │
-│ Contributor Data    │
-│ File Analysis       │
-│ Repository Analysis │
-│ Risk Indicators     │
-└─────────────────────┘
-       ↓
-Investigation Report
-       ↓
-Report History
-```
-
-### ✨ Features
-
+### ✨ Key Features
 - 🔗 GitHub API integration
-- 🔍 Repository analysis
-- 📈 Commit analysis
-- 👥 Contributor analysis
-- 📁 File & directory analysis
+- 📊 Repository and commit analysis
+- 👥 Contributor activity insights
+- 📁 File and directory analysis
 - ⚠️ Development risk indicators
-- 📑 Investigation reports
-- 🕒 Report history
-- 🌐 Django web dashboard
+- 📑 Investigation reports and report history
+
+**Tech:** Python · Django · GitHub API · HTML · CSS
 
 <p>
 <a href="https://github.com/Bhavya7887/Devtrace-">
-<img src="https://img.shields.io/badge/View%20Project-DevTrace-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Explore%20DevTrace-181717?style=for-the-badge&logo=github">
 </a>
 </p>
 
@@ -161,69 +139,26 @@ Report History
 
 ## 🤖 AI Interview Platform
 
-> **AI-Powered Mock Interviews, Resume-Based Preparation & Personalized Learning Roadmaps**
+> **AI-Powered Mock Interviews & Personalized Learning**
 
-AI Interview Platform is a Django-based application designed to help candidates prepare for technical and behavioral interviews through AI-generated questions, timed mock interviews, personalized feedback, and structured learning roadmaps.
+An AI-powered Django application that simulates real interview experiences. Candidates can upload resumes, practice role-based questions, receive AI-generated evaluations, and improve through personalized feedback and learning roadmaps.
 
-### What it does
-
-```text
-       Candidate
-           ↓
-     Upload Resume
-           ↓
-   Select Role & Level
-           ↓
-      AI Interview
-           ↓
-  ┌──────────────────────┐
-  │ AI Question Generation│
-  │ MCQ & True/False      │
-  │ Short Answer          │
-  │ Coding Questions      │
-  │ Debugging Challenges  │
-  │ Scenario-Based Tasks  │
-  └──────────────────────┘
-           ↓
-      Submit Answers
-           ↓
-      AI Evaluation
-           ↓
-  ┌──────────────────────┐
-  │ Performance Analysis │
-  │ Personalized Feedback│
-  │ Strengths & Weaknesses│
-  │ Learning Roadmap     │
-  └──────────────────────┘
-           ↓
-     Interview Report
-           ↓
-      Dashboard & History
-```
-
-### ✨ Features
-
-- 📄 Resume upload for interview preparation
-- 🤖 AI-powered mock interviews
-- 🎯 Role-based and difficulty-based questions
+### ✨ Key Features
+- 📄 Resume upload
+- 🤖 AI-generated interview questions
+- 🎯 Role and difficulty-based interviews
 - ⏱️ Timed interview sessions
-- 📝 Multiple question types — MCQ, true/false, short answer, coding, debugging and scenarios
-- 🧠 AI-powered answer evaluation
-- 📊 Personalized performance reports
-- 💡 Strengths and weaknesses analysis
+- 📝 MCQ, coding, debugging and scenario questions
+- 📊 AI-powered feedback and performance reports
 - 🗺️ Personalized 30-day learning roadmap
-- 📈 Interview dashboard and history
-- 🔐 User authentication
-- ⚡ Groq API integration for AI capabilities
-- 🌐 Django-based web application
+
+**Tech:** Python · Django · Groq API · SQLite · HTML · CSS · JavaScript
 
 <p>
 <a href="https://github.com/Bhavya7887/AI-Interview-Platform">
-<img src="https://img.shields.io/badge/View%20Project-AI%20Interview%20Platform-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Explore%20AI%20Interview%20Platform-181717?style=for-the-badge&logo=github">
 </a>
 </p>
-
----
 
 # 📚 Currently Learning
 
