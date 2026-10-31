@@ -111,8 +111,6 @@ Practicing Data Structures & Algorithms and improving algorithmic thinking.
 
 # ⭐ Featured Projects
 
-# ⭐ Featured Projects
-
 ## 🔎 DevTrace — Frontier Intelligence
 
 > **GitHub Repository Intelligence & Risk Analysis Platform**
