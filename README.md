@@ -92,7 +92,7 @@ Practicing Data Structures & Algorithms and improving algorithmic thinking.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,sql" />
 </p>
 
 ### 🌐 Web & Backend
@@ -141,15 +141,15 @@ Report History
 
 ### ✨ Features
 
-* 🔗 GitHub API integration
-* 🔍 Repository analysis
-* 📈 Commit analysis
-* 👥 Contributor analysis
-* 📁 File & directory analysis
-* ⚠️ Development risk indicators
-* 📑 Investigation reports
-* 🕒 Report history
-* 🌐 Django web dashboard
+- 🔗 GitHub API integration
+- 🔍 Repository analysis
+- 📈 Commit analysis
+- 👥 Contributor analysis
+- 📁 File & directory analysis
+- ⚠️ Development risk indicators
+- 📑 Investigation reports
+- 🕒 Report history
+- 🌐 Django web dashboard
 
 <p>
 <a href="https://github.com/Bhavya7887/Devtrace-">
@@ -161,17 +161,67 @@ Report History
 
 ## 🤖 AI Interview Platform
 
-> **AI-powered technical interview experience built with Python**
+> **AI-Powered Mock Interviews, Resume-Based Preparation & Personalized Learning Roadmaps**
 
-An AI interview application designed to simulate technical interviews, generate questions, evaluate responses, and produce structured scores.
+AI Interview Platform is a Django-based application designed to help candidates prepare for technical and behavioral interviews through AI-generated questions, timed mock interviews, personalized feedback, and structured learning roadmaps.
 
-### ✨ Focus
+### What it does
 
-* 🤖 AI-powered questioning
-* 🧠 Dynamic interview flow
-* 📝 Answer evaluation
-* 📊 Score generation
-* 🎯 Interactive interview experience
+```text
+       Candidate
+           ↓
+     Upload Resume
+           ↓
+   Select Role & Level
+           ↓
+      AI Interview
+           ↓
+  ┌──────────────────────┐
+  │ AI Question Generation│
+  │ MCQ & True/False      │
+  │ Short Answer          │
+  │ Coding Questions      │
+  │ Debugging Challenges  │
+  │ Scenario-Based Tasks  │
+  └──────────────────────┘
+           ↓
+      Submit Answers
+           ↓
+      AI Evaluation
+           ↓
+  ┌──────────────────────┐
+  │ Performance Analysis │
+  │ Personalized Feedback│
+  │ Strengths & Weaknesses│
+  │ Learning Roadmap     │
+  └──────────────────────┘
+           ↓
+     Interview Report
+           ↓
+      Dashboard & History
+```
+
+### ✨ Features
+
+- 📄 Resume upload for interview preparation
+- 🤖 AI-powered mock interviews
+- 🎯 Role-based and difficulty-based questions
+- ⏱️ Timed interview sessions
+- 📝 Multiple question types — MCQ, true/false, short answer, coding, debugging and scenarios
+- 🧠 AI-powered answer evaluation
+- 📊 Personalized performance reports
+- 💡 Strengths and weaknesses analysis
+- 🗺️ Personalized 30-day learning roadmap
+- 📈 Interview dashboard and history
+- 🔐 User authentication
+- ⚡ Groq API integration for AI capabilities
+- 🌐 Django-based web application
+
+<p>
+<a href="https://github.com/Bhavya7887/AI-Interview-Platform">
+<img src="https://img.shields.io/badge/View%20Project-AI%20Interview%20Platform-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
 
